@@ -48,8 +48,11 @@ Multi-language support
 👨‍💻 Author
 Venkatsaikrishnan N S
 Frontend Developer & Python Enthusiast
+
 LinkedIn - https://www.linkedin.com/in/venkat-sai-krishnan-ns-741a50329/
+
 GitHub - https://github.com/venkatsaikrishnan045
+
 Portfolio - https://venkatsaikrishnan045.github.io/Venkat-sPortfolio/
 
 📄 License
