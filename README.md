@@ -62,15 +62,3 @@ Feel free to use, modify, and share it!
 ---
 
 Let me know if you want the **README in a ZIP** file or want me to add **screenshots**, **demo links**, or **badge icons** (for stars, forks, etc.).
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
-## 📂 Folder Structure
-
